@@ -20,9 +20,8 @@
 - algorithms : classification, regression models along with Artificial Neural Networks.
 
 # Repository Structure
-- docs : directory for project draft documentations.
+- docs : directory for project draft and final documentations.
 - src : directory for project code base.
-- report : directory of final project report with links
 
 ### Links:
 #### Presentation links:
