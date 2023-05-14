@@ -5,15 +5,22 @@
 - Author : Sruthi Batchala
 - Semester : Spring 2023
 - Campus ID : OH34738
+
 # Project Title :Credit Card Fraud Detection
+
 # Project Overview
-- Real estate is a crucial sector of the economy.
-- Prices of real estate properties such as houses are liked to various factors such as population growth, unemployment, GDP and GNI.
-- Accurately estimating the price of houses is essential for a variety of purposes, including buying, selling, investing, and financing.
+- Credit Card Fraud Detection is the process of identifying and preventing fraudulent transactions made using credit cards. It involves the use of various techniques such as statistical analysis, data mining and machine learning to detect unusual patterns and behaviors that indicate potential fraud.
+- The importance of Fraud Detection for Credit Card companies cannot be overstated, as fraud can result in significant financial losses for both the card issuer and the cardholder. 
+- It can also damage the reputation of the credit card company, resulting in a loss of customer trust and loyalty. 
+- Therefore, it is essential for credit card companies to have effective fraud detection systems in place to protect their customers and themselves. 
+- Determine which classifier works best for classifying the data
+- Also, Try to implement Artificial Neural Network and compare the accuracy to the best classification model.
+
 # Technologies Used
-- programming language : Python, react/streamlit (yet to decide on front-end framework)
-- libraries : Pandas, Plotly, sklearn, scipy, 
-- algorithms : Regression based algorithms used such as LogisticRegression, RandomForest, DecisionTree
+- programming language : Python.
+- libraries : Pandas, Seaborn, sklearn, scipy, Tensorflow.
+- algorithms : classification, regression models along with Artificial Neural Networks.
+
 # Repository Structure
 - docs : directory for project draft documentations.
 - src : directory for project code base.
