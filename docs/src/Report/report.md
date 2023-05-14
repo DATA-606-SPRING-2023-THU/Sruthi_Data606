@@ -1,8 +1,8 @@
-- **_Professor_*: **Chaojie Wang**
+- **_Professor_**: **Chaojie Wang**
 - *_Student Details_* : 
-- Name: B. Sruthi
-- Campus_id : OH34738
-- Semester : Spring 2023
+                      -> Name: B. Sruthi
+                      -> Campus_id : OH34738
+                      -> Semester : Spring 2023
 
 - **Capstone Project Title :**  Credit card fraud detection using Machine Learning and ANN's
 
