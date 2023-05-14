@@ -1,7 +1,5 @@
-- **_Professor_** : **Dr.Chaojie Wang**
-
-
 # DATA_606 - Capstone Project
+- **_Professor_** : **Dr.Chaojie Wang**
 - Author : Sruthi Batchala
 - Semester : Spring 2023
 - Campus ID : OH34738
