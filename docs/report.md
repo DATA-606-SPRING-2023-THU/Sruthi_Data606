@@ -26,5 +26,5 @@
 ### Links:
 #### Presentation links:
 - [Youtube](https://youtu.be/hBOj2BPYU4Y)
-- [Powerpoint presentation](https://github.com/DATA-606-SPRING-2023-THU/Sruthi_Data606/blob/main/docs/Capstone_project.pptx)
+- [Powerpoint presentation](https://github.com/b1sruthi/Sruthi_Data606/blob/main/docs/Capstone_project.pptx)
 
