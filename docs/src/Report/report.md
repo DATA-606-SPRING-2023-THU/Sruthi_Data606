@@ -1,4 +1,4 @@
-- **_Professor_** : **Chaojie Wang**
+- **_Professor_** : **Dr.Chaojie Wang**
 
 
 - **Capstone Project Title :**  Credit card fraud detection using Machine Learning and ANN's
