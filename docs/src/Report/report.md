@@ -1,5 +1,5 @@
--- *_Professor_*: **Chaojie Wang**
--- *_Student Details_* : 
+- **_Professor_*: **Chaojie Wang**
+- *_Student Details_* : 
 - Name: B. Sruthi
 - Campus_id : OH34738
 - Semester : Spring 2023
