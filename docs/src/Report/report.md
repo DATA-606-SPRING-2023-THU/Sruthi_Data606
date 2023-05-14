@@ -1,4 +1,4 @@
-- **_Professor_**: **Chaojie Wang**
+- **_Professor_** : **Chaojie Wang**
 - *_Student Details_* : 
                       -> Name: B. Sruthi
                       -> Campus_id : OH34738
