@@ -14,6 +14,13 @@
 - Determine which classifier works best for classifying the data
 - Also, Try to implement Artificial Neural Network and compare the accuracy to the best classification model.
 
+# Questions intended to answer
+To prevent from fraudulant transactions from taking place in the future, we can use ML algorithms to:
+- Understand the distribution of the data that was provided to us.
+- Create a sub-dataframe of "Fraud" and "Non-Fraud" transactions.
+- Determine which classifier works the best for classifying the data.
+- Also, try to create a Neural Network and compare the accuracy to the best classifier achieved.
+
 # Technologies Used
 - programming language : Python.
 - libraries : Pandas, Seaborn, sklearn, scipy, Tensorflow.
