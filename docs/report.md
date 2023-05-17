@@ -21,6 +21,14 @@ To prevent from fraudulant transactions from taking place in the future, we can 
 - Determine which classifier works the best for classifying the data.
 - Also, try to create a Neural Network and compare the accuracy to the best classifier achieved.
 
+# Problem Statement
+*Aim*:
+Use classification, regression algorithms to identify how well the Model is predicting fraudulent transactions
+Along with this, using Artificial Neural Networks to help develop analyzing fraud transactions automatically without human intervention
+*Target Class*:
+“0” : Non fraudulent cases 
+“1” : Fraudulent cases 
+
 # Technologies Used
 - programming language : Python.
 - libraries : Pandas, Seaborn, sklearn, scipy, Tensorflow.
