@@ -47,6 +47,6 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 
 ### Links:
 #### Presentation links:
-- [Youtube](https://youtu.be/hBOj2BPYU4Y)
+- [Youtube](https://www.youtube.com/watch?v=hBOj2BPYU4Y)
 - [Powerpoint presentation](https://github.com/b1sruthi/Sruthi_Data606/blob/main/docs/Capstone_project.pptx)
 
