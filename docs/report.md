@@ -34,6 +34,13 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 - libraries : Pandas, Seaborn, sklearn, scipy, Tensorflow.
 - algorithms : classification, regression models along with Artificial Neural Networks.
 
+# Lessons Learnt 
+- Firstly, it was very hard to deal with imbalanced Data along with the actual feature names being hidden for confidential reasons.
+- Choose algorithms based on the data you use.
+- Try solving the problem with the simplest algorithms and gradually increase complexity.
+- What is the best model - Consider two critical factors ? Obviously, consider the results and metrics. Also consider how important the accuracy is, what difference does an improvement of 0.1% make ? Specifically in-case of highly imbalanced classification problems, consider the minority classes.
+- Highly imbalanced case - overall accuracy has very less weightage compared to the individual accuracies of the minority classes. 
+
 # Repository Structure
 - docs : directory for project draft and final documentations.
 - src : directory for project code base.
