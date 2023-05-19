@@ -11,8 +11,6 @@
 - The importance of Fraud Detection for Credit Card companies cannot be overstated, as fraud can result in significant financial losses for both the card issuer and the cardholder. 
 - It can also damage the reputation of the credit card company, resulting in a loss of customer trust and loyalty. 
 - Therefore, it is essential for credit card companies to have effective fraud detection systems in place to protect their customers and themselves. 
-- Determine which classifier works best for classifying the data
-- Also, Try to implement Artificial Neural Network and compare the accuracy to the best classification model.
 
 # Questions intended to answer
 To prevent from fraudulant transactions from taking place in the future, we can use ML algorithms to:
@@ -41,8 +39,7 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 - Checking for Outliers and eliminating them
 <img width="1392" alt="image" src="https://github.com/b1sruthi/Sruthi_Data606/assets/124225545/37f92c8d-4f26-4cd9-afd7-8823c7ea194d">
 
-- Determining which classifier works best for classifying the data
-- Also, Tried to implement Artificial Neural Network and compare the accuracy to the best classification model.
+- implementing ML and AI models
 
 # ML models used and their accuracy scores
 - Have used both regression and classification algorithms to determine which model works best for the given dataset.
@@ -76,11 +73,17 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 - What is the best model - Consider two critical factors ? Obviously, consider the results and metrics. Also consider how important the accuracy is, what difference does an improvement of 0.1% make ? Specifically in-case of highly imbalanced classification problems, consider the minority classes.
 - Highly imbalanced case - overall accuracy has very less weightage compared to the individual accuracies of the minority classes. 
 
+# Conclusion
+- It is observed that the Artificial Neural Networks work best in classifying whether a particular transaction is fraudulent or not. 
+- The model has achieved an accuracy of 98%.
+- This means with proper adjustments and developments this method can be used to detect transactions automatically without human intervention in the future.
+
+
 # Repository Structure
 - docs : directory for project draft and final documentations.
 - src : directory for project code base.
 
-### Links:
+# Links
 #### Presentation links:
 - [Youtube](https://www.youtube.com/watch?v=hBOj2BPYU4Y)
 - [Powerpoint presentation](https://github.com/b1sruthi/Sruthi_Data606/blob/main/docs/Capstone_project.pptx)
