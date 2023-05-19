@@ -46,16 +46,14 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 
 # ML models used and their accuracy scores
 - Have used both regression and classification algorithms to determine which model works best for the given dataset.
-*Regression Models used:
 1. Random Forest  -  accuracy: 93%
 2. Linear Regression  -  accuracy: 88%
 3. Bagging Regressor  - accuracy : 89%
 4. Decision Tree Regressor  - accuracy: 93.5%
-*Classification Models used:
-1. Logistic Regression  - accuracy:95%
-2. Random Forest Classifier - accuracy: 94%
-3. Decision Tree Classifier. - accuracy: 85%
-4. Ensemble Model. - accuracy:93%
+5. Logistic Regression  - accuracy:95%
+6. Random Forest Classifier - accuracy: 94%
+7. Decision Tree Classifier. - accuracy: 85%
+8. Ensemble Model. - accuracy:93%
 
 - From all the models that were used to predict whether a particular transaction Is fraudulent or not, the best model turned out to be Logistic Regression.
 
@@ -63,6 +61,8 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 - Have implemented Artificial Neural Networks to check how well the AI model is going to perform for this data
 - Have used activation functions like relu and sigmoid for a sequential analysis and as expected the Artificial Neural Networks work way better than any of the ML models With accuracy being more than 98% for both train and test datasets.
 - It is concluded that ANN’s work best for detecting frauds during credit card transactions.
+<img width="695" alt="image" src="https://github.com/b1sruthi/Sruthi_Data606/assets/124225545/8fa8ba68-5084-4f36-8714-d4ebfa5dd90c">
+
 
 # Technologies Used
 - programming language : Python.
