@@ -73,11 +73,17 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 - What is the best model - Consider two critical factors ? Obviously, consider the results and metrics. Also consider how important the accuracy is, what difference does an improvement of 0.1% make ? Specifically in-case of highly imbalanced classification problems, consider the minority classes.
 - Highly imbalanced case - overall accuracy has very less weightage compared to the individual accuracies of the minority classes. 
 
+# Conclusion
+- It is observed that the Artificial Neural Networks work best in classifying whether a particular transaction is fraudulent or not. 
+- The model has achieved an accuracy of 98%.
+- This means with proper adjustments and developments this method can be used to detect transactions automatically without human intervention in the future.
+
+
 # Repository Structure
 - docs : directory for project draft and final documentations.
 - src : directory for project code base.
 
-### Links:
+# Links
 #### Presentation links:
 - [Youtube](https://www.youtube.com/watch?v=hBOj2BPYU4Y)
 - [Powerpoint presentation](https://github.com/b1sruthi/Sruthi_Data606/blob/main/docs/Capstone_project.pptx)
