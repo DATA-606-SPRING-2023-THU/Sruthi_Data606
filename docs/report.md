@@ -29,6 +29,41 @@ Along with this, using Artificial Neural Networks to help develop analyzing frau
 1. “0” : Non fraudulent cases 
 2. “1” : Fraudulent cases 
 
+# EDA Performed
+- Understanding the distribution of the data taken
+- Scaling the Data columns 
+![image](https://github.com/b1sruthi/Sruthi_Data606/assets/124225545/412fbb3d-4e3c-4f4c-af6d-8965396153cc)
+
+- Creating a sub dataframe of fraud and not-fraud transactions
+<img width="440" alt="image" src="https://github.com/b1sruthi/Sruthi_Data606/assets/124225545/ee1673b5-473d-4d3a-87d0-c66a65ac3339">
+<img width="470" alt="image" src="https://github.com/b1sruthi/Sruthi_Data606/assets/124225545/6e15ef10-1380-4705-8290-9be4776cbe99">
+
+- Checking for Outliers and eliminating them
+<img width="1392" alt="image" src="https://github.com/b1sruthi/Sruthi_Data606/assets/124225545/37f92c8d-4f26-4cd9-afd7-8823c7ea194d">
+
+- Determining which classifier works best for classifying the data
+- Also, Tried to implement Artificial Neural Network and compare the accuracy to the best classification model.
+
+# ML models used and their accuracy scores
+- Have used both regression and classification algorithms to determine which model works best for the given dataset.
+*Regression Models used:
+1. Random Forest  -  accuracy: 93%
+2. Linear Regression  -  accuracy: 88%
+3. Bagging Regressor  - accuracy : 89%
+4. Decision Tree Regressor  - accuracy: 93.5%
+*Classification Models used:
+1. Logistic Regression  - accuracy:95%
+2. Random Forest Classifier - accuracy: 94%
+3. Decision Tree Classifier. - accuracy: 85%
+4. Ensemble Model. - accuracy:93%
+
+- From all the models that were used to predict whether a particular transaction Is fraudulent or not, the best model turned out to be Logistic Regression.
+
+# ANN Implementation
+- Have implemented Artificial Neural Networks to check how well the AI model is going to perform for this data
+- Have used activation functions like relu and sigmoid for a sequential analysis and as expected the Artificial Neural Networks work way better than any of the ML models With accuracy being more than 98% for both train and test datasets.
+- It is concluded that ANN’s work best for detecting frauds during credit card transactions.
+
 # Technologies Used
 - programming language : Python.
 - libraries : Pandas, Seaborn, sklearn, scipy, Tensorflow.
